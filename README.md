@@ -1,4 +1,4 @@
-Hardiness Zone Lookup API
+USDA Hardiness Zone API
 ============
 
 Hardiness Zone is a simple tool for getting the USDA Plant Hardiness Zone for a given zip code
@@ -7,7 +7,7 @@ Hardiness Zone is a simple tool for getting the USDA Plant Hardiness Zone for a 
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
 ![Prod Ready](https://img.shields.io/badge/production-ready-blue)
 
-This is a Javascript Wrapper for the [Hardiness Zone Lookup API](https://apiverve.com/marketplace/api/hardinesszone)
+This is a Javascript Wrapper for the [USDA Hardiness Zone API](https://apiverve.com/marketplace/api/hardinesszone)
 
 ---
 
@@ -25,7 +25,7 @@ You can get it by signing up at [https://apiverve.com](https://apiverve.com)
 
 ## Usage
 
-The Hardiness Zone Lookup API documentation is found here: [https://docs.apiverve.com/api/hardinesszone](https://docs.apiverve.com/api/hardinesszone).  
+The USDA Hardiness Zone API documentation is found here: [https://docs.apiverve.com/api/hardinesszone](https://docs.apiverve.com/api/hardinesszone).  
 You can find parameters, example responses, and status codes documented here.
 
 ### Setup
@@ -107,7 +107,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
