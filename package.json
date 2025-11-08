@@ -1,24 +1,26 @@
 {
   "name": "@apiverve/hardinesszone",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "description": "Hardiness Zone is a simple tool for getting the USDA Plant Hardiness Zone for a given zip code",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "example": "node examples/basic.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/apiverve/hardinesszone-API.git"
   },
   "keywords": [
-    "hardiness zone","hardiness zone api","hardiness zone tool","hardiness zone software","hardiness zone service"
+    "hardiness zone", "hardiness zone api", "hardiness zone tool", "hardiness zone software", "hardiness zone service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/apiverve/hardinesszone-API/issues"
   },
-  "homepage": "https://apiverve.com/marketplace/api/hardinesszone?utm_source=npm",
+  "homepage": "https://apiverve.com/marketplace/hardinesszone?utm_source=npm",
   "devDependencies": {
     "mocha": "^11.0.1",
     "chai": "^5.1.2",
@@ -27,6 +29,6 @@
   "dependencies": {
     "node-fetch": "^3.3.2",
     "promise": "^8.3.0",
-    "axios": "1.7.9"
+    "axios": "1.13.2"
   }
 }
